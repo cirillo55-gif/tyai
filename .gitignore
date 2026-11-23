@@ -1,0 +1,5 @@
+/target
+ru.txt.gz
+model.tyai
+brain_raw/*.bin
+
